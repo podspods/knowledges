@@ -2,12 +2,12 @@
 
 # Sommaire
 
-[semis](#semis)
-[Germination](#germination)
-[croissance](#croissance)
-[Fructification](#fructification)
-[Nom scientifique](#nom-scientifique)
-[A quoi ca va nous servir ? ](#a-quoi-ca-va-nous-servir)
+1. [semis](#semis)
+1. [Germination](#germination)
+1. [croissance](#croissance)
+1. [Fructification](#fructification)
+1. [Nom scientifique](#nom-scientifique)
+1. [A quoi ca va nous servir ? ](#a-quoi-ca-va-nous-servir)
 
 # Semis
 
@@ -80,7 +80,7 @@ minéraux (terroir)
 ### Sexué
 
 1.  Hermaphrodites (bisexuée)
-1.  Monoïques possède organe male et femelle)
+1.  Monoïques possède organe male et femelle
 1.  Dioïques (individue mal ou femelle)
 
 ### Fécondation
