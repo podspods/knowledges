@@ -1,4 +1,4 @@
 # Sommaire
 
-
-- [Planification](./planification.md)
+1. [Planification](./planification.md)
+1. [Qu'est-ce qu'une plante ?](./une-plante.md)
