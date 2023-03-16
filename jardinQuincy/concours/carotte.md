@@ -33,12 +33,12 @@ En contre-partis, les concurrents s'engage à mettre en culture aussi sérieusem
 
 # Récompense et contre partis
 
-Les récompenses seront remises lors de l'assemblé générale (janvier 2024)
+Les récompenses seront remises lors de l'assemblée générale (janvier 2024)
 
-Les gagnants, s'ils acceptent leurs prix, accepteront les contre-parties suivante:
+Les gagnants, s'ils acceptent leurs prix, accepteront les contre-parties suivantes:
 
-Prix de l'abondance : expliquer la démarche avec autant de précision que possible afin que les autres puissent reproduire la technique.
+1. **Prix de l'abondance** : expliquer la démarche avec autant de précision que possible (date de semis, température du sol, fréquence d'arrosage etc.) afin que les autres puissent reproduire la technique.
 
-Prix de l'égo : Accepter de ceder à l'association, 3 exemplaires de chaque (La plus belle, la plus grosse, la plus régulière) afin que nous puissons faire des semences pour les années futur.
+1. **Prix de l'égo** : accepter de céder à l'association, 3 exemplaires de chaque (la plus belle, la plus grosse, la plus régulière) afin que nous puissions faire des semences pour les années futur.
 
 Bonne chance à tous.
