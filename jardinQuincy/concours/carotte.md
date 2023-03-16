@@ -1,7 +1,7 @@
 # Challenge de la carotte
 
 Cette année l'association organise le challenge de la carotte  
-note : le challenge 1 jour-1 salade reste toujours à défier
+note : le challenge 1-jour-1-salade reste toujours à défier
 
 # inscription
 
