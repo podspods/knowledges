@@ -11,10 +11,10 @@ Au-dela de cette limite, les inscriptions seront toujours possible dans la limit
 
 Le concours par équipes est fortement conseillé.
 
-# Droit et devoir
+# Droits et devoirs
 
-L'association fournit les graines pour le concours, neanmoins il est possible d'utiliser ses propres graines.
-En contre-partis, les concurrents assurent le suivie de la culture aussi sérieusement que possible
+L'association fournit les graines pour le concours, néanmoins il est possible d'utiliser ses propres graines.
+En contre-partis, les concurrents s'engage à mettre en culture aussi sérieusement que possible.
 
 # Règlement
 
