@@ -27,9 +27,9 @@ En contre-partis, les concurrents s'engage à mettre en culture aussi sérieusem
 1.  Prix de l'égo (prix très subjectif)
     Le jury sera constitué des mêmes personnes pour la durée du concours (appel aux volontaires)
 
-        1. La plus grosse
-        1. la plus belle
-        1. la forme la plus régulière.
+    1. La plus grosse
+    1. la plus belle
+    1. la forme la plus régulière.
 
 # Récompense et contre partis
 
