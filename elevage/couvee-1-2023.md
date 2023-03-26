@@ -1,3 +1,5 @@
+[< précédent](./README.md)
+
 # Couvée 1 2023
 
 # Début
@@ -15,4 +17,5 @@
 1. 7 oeufs non fécondés
 1. Ajout de 8 oeufs à la place des oeufs non fécondés.
 1. les oeufs ont été ramassé entre le 16 et 19 mars
-1. Eclosion estimé le Lunbdi de pâque le 9 avril 2023
+1. Eclosion estimé le Lundi de pâque le 9 avril 2023
+1. 27 mars 2023 : stop retournement couvé 1 (1 oeuf non viable)
