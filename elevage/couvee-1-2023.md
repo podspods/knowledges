@@ -19,3 +19,17 @@
 1. les oeufs ont été ramassé entre le 16 et 19 mars
 1. Eclosion estimé le Lundi de pâque le 9 avril 2023
 1. 27 mars 2023 : stop retournement couvé 1 (1 oeuf non viable)
+
+# stop retournement
+
+26 mars 2023
+
+# naissance
+
+28 mars 2021 ( 1 jours avant). sans doute à cause de la tempéréature 38°c les 5 premiers jours
+12 poussins
+
+# non viable
+
+1 étouffé dans l'oeuf
+1 mort le 01 avril, problème respiratoire
