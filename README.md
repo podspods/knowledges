@@ -3,6 +3,7 @@
 - [Jardin de quincy voisin](./jardinQuincy/README.md)
 - [champignon](./ressource/champignon.md)
 - [arbres](./arbre/readme.md)
+- [Potager 2023](./potager/README.md)
 
 # base de connaissance
 

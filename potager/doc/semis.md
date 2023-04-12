@@ -10,10 +10,10 @@
 
 variété :
 
-- Noir de crimé
-- marmande
-- cerise poire jaune
-- cerise black cherry
+- Noir de crimé => germé le 3 avril 2023
+- marmande=> germé le 3 avril 2023
+- cerise poire jaune=> germé le 3 avril 2023
+- cerise black cherry=> germé le 3 avril 2023
 
 # piment
 
@@ -31,4 +31,4 @@ variété :
 
 variété :
 
-- violet barbentane
+- violet barbentane=> germé le 3 avril 2023
