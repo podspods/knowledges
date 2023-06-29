@@ -30,7 +30,7 @@ je cultive :
    - dorée de printemps.
 1. pour prendre le relais de la batavia, je sème de la chicorée ( de juin à Octobre).
    - chicorée de Vérone
-   - chicoré pain de sucre
+   - chicorée pain de sucre
 1. il y a la roquette que je sème toutes l'année aussi. ca me sert de couverture sol. il faut juste les récolter et couper à raz (comme la pelouse) ca permet de pousser plus.
    - roquette cultivée
 1. et la mâche pour l'hiver (semis à partir de mi-juillet)
