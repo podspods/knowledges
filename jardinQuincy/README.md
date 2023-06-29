@@ -11,3 +11,4 @@ autre sujet à traiter plus tard
 # concours
 
 1. [Challenge Carotte](./concours/carotte.md)
+1. [un jour / une salade](./cours/un-jour-une-salade.md)
