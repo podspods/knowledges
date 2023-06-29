@@ -14,8 +14,8 @@ l'objectif est de pouvoir produire et donc consommer une salade verte tous les j
 
 ## récolte
 
-1. Je récolte les salades feuilles à feuille en laissant au moins 2 feuilles et sans arracher la salade. cela permet à la salade de faire de nouvelle feuille, et de le manger jusqu'a ce que celle-ci monte en graine et me fournissent des graines pour la suite.
-1. Je peux récolter un salade entière (quand je veux en offrir par exemple). toutefois je n'arrache pas le pied. Je coupe la salade à raz.
+1. Je récolte les salades feuilles à feuille en laissant au moins 2 feuilles et sans arracher la salade. cela permet à la salade de faire de nouvelle feuille, et de les manger jusqu'a ce que celle-ci monte en graine et me fournissent des graines pour la suite.
+1. Je peux récolter une salade entière (quand je veux en offrir par exemple). toutefois je n'arrache pas le pied. Je coupe la salade à raz.
 
 # variété de salade.
 
@@ -28,5 +28,10 @@ je cultive :
 1. de la batavia de janvier à avril (période de semis) après, je trouve que ca monte en graine trop vite.
    - blonde de paris
    - dorée de printemps.
-1. pour prendre le relais des la batavia, je sème de la chicorées ( de juin à Octobre).
+1. pour prendre le relais de la batavia, je sème de la chicorée ( de juin à Octobre).
+   - chicorée de Vérone
+   - chicoré pain de sucre
 1. il y a la roquette que je sème toutes l'année aussi. ca me sert de couverture sol. il faut juste les récolter et couper à raz (comme la pelouse) ca permet de pousser plus.
+   - roquette cultivée
+1. et la mâche pour l'hiver (semis à partir de mi-juillet)
+   - mâche à grosse graine
