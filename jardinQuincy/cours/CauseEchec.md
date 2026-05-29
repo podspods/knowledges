@@ -7,20 +7,21 @@
 - quoi et Pourquoi
 - Ou jardiner
 - Combien
-- Comment Rétro planning
+- Comment
+- Example concret
 
-## Qui
+## Qui
 
 - débutant
 - confirmé
 - jardiner citadin (autres chose à faire dans la journée)
 
-## Quand
+## Quand
 
 - première erreur. jardinier de pritemps qui espère des résultats sur l'année
 - conseil : quand toute l'année. 3 ans pour la rentabilité
 
-## quoi et Pourquoi
+## quoi et Pourquoi
 
 - projet potager :
 - apprendre le jardinage,
@@ -28,19 +29,21 @@
 - autonomie alimentaire
 - vie sociale
 
-## Ou jardiner
+## Ou jardiner
 
 - jardin partagé
 - maison
 - partout ou il y a de la terre
 
-## Combien : quantité : taille des cultures / taille de - la parcelle
+## Combien : quantité : taille des cultures / taille de - la parcelle
 
 - argent :
 - temps :
 - résultat:
 
-## Comment Rétro planning
+## Comment
+
+- Rétro planning
 
 ## example :
 
