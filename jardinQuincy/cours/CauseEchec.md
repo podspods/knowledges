@@ -64,21 +64,62 @@
 
 - 52 semaine - 5 semaines de vacances.
 
-3 especes principal : tomate, salade, oignon.
-3 espèce secondaire : radis, courgette, betterave,
-Autre carotte,choux,oeillet, haricot, menthe, origan, basilic, sauge, romarin,thym,rhubarbe framboise, groseille, poireau, ciboulette, sauge, ail
+### 3 especes principal :
 
-outils : pelle, graine, terreau, pots
+- tomate,
+- salade,
+- oignon.
 
-tomate 100g : => 5kg x 3 pieds = 15kg
-courgette : 300g ==> 3kg
-oignon : 200g => 2kg
-salade : 200g = 1 par 20 semaines 4kg
-radis rose : 10g x 100 => 1kg
+### 3 espèce secondaire :
 
-choux : 200 x 3=> 0.6kg
-radis noir :100g x 10 => 1kg
-poireau : 150 x 20 => 3 kg
-betterage :100x 20 => 2kg
+- radis,
+- courgette,
+- betterave,
 
-bilan 31,6 kg
+### Autre
+
+- carotte,
+- choux,
+- oeillet,
+- haricot,
+- menthe,
+- origan,
+- basilic,
+- sauge,
+- romarin,
+- thym,
+- rhubarbe
+- framboise,
+- groseille,
+- poireau,
+- ciboulette,
+- sauge,
+- ail
+  etc.
+
+### outils :
+
+- pelle,
+- serfouette,
+- graine,
+- terreau,
+- pots
+
+| variété    | unitaire      | quantité   | total |
+| ---------- | ------------- | ---------- | ----- |
+| tomate     | 100g : => 5kg | x 3 pieds  | 15kg  |
+| courgette  | 200g : => 2kg | x 1 pieds  | 2kg   |
+| oignon     | 200g          | x 10 pieds | 2kg   |
+| salade     | 200g          | 20         | 4kg   |
+| radis rose | 10g           | 100        | 1kg   |
+| total      |               |            | 24kg  |
+
+| variété    | unitaire | quantité   | total |
+| ---------- | -------- | ---------- | ----- |
+| choux      | 1kg      | x 3 pieds  | 3kg   |
+| radis noir | 100g     | x 10 pieds | 1kg   |
+| poireau    | 150      | x 20 pieds | 3kg   |
+| betterage  | 100x     | 20         | 2kg   |
+| total      | 100g     |            | 9kg   |
+
+bilan 33 kg
